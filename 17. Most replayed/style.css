@@ -1,1 +1,15 @@
 
+h1{
+    text-align: center;
+    border-style: solid;
+    border-width: 5px;
+    border-color: aqua;
+    border-radius: 20px;
+}
+p{
+    border-bottom: 10px solid rgb(108, 112, 250);
+    border-left:  dashed rgb(236, 48, 48);
+    border-right: groove rgb(101, 255, 40);
+    border-top: double rgb(221, 42, 176);
+    border-radius: 20px;
+}
