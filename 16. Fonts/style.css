@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Quicksand;
+    src: url(fonts/Quicksand-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: Quicksand-bold;
+    src: url(fonts/Quicksand-Bold.ttf);
+}
+
+h1{font-family: Quicksand-bold, Verdana, Arial}
+p{
+    font-family: Quicksand, 'Lucida Sans', 'Courier New';
+    font-size: 1em;
+    font-weight: normal;
+    font-style: italic;
+}
