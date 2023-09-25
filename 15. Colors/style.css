@@ -1,0 +1,9 @@
+body
+{
+    background-color: rgb(26, 26, 32);
+}
+#p1{color: rgb(242, 123, 102);}
+#p2{color: blueviolet}
+#p3{color: rgba(100, 241, 241, 0.83)}
+#p4{color: hsl(130, 90%, 85%)}
+#p5{color: #fcea91}
