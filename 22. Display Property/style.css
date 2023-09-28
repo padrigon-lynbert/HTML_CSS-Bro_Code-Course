@@ -1,0 +1,12 @@
+div{
+    background-color: rgb(117, 117, 255);
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
+span{
+    background-color: rgb(255, 75, 75);
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
