@@ -1,0 +1,32 @@
+h1::first-letter{
+    font-size: 2em;
+    font-style: italic;
+}
+
+p::first-line{
+    color: rgb(252, 252, 85);
+}
+
+p::selection{
+    color: rgb(92, 245, 102);
+    background-color: purple;
+    /* selected or highlighted */
+}
+
+#fruits li::before{
+    content: "🚧";
+}
+
+#apple::after{
+    content: "🫥";
+}
+#orange::after{
+    content: "✖️";
+}
+#banana::after{
+    content: "🎆";
+}
+#fruits li::marker{
+    content: "#";
+    color: rgb(58, 240, 58);
+}
