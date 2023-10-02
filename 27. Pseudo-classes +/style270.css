@@ -1,0 +1,6 @@
+li:hover{
+    background-color: blueviolet;
+}
+li:not(:hover){
+    background-color: navajowhite;
+}
